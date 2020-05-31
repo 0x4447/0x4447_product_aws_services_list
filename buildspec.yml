@@ -1,0 +1,6 @@
+version: 0.2
+
+phases:
+  post_build:
+    finally:
+      - aws s3 cp ./aws_services.json s3://0x4447-drive-products/0x4447_product_aws_services_list/aws_services.json --acl public-read
