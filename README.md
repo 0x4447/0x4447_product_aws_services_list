@@ -1,6 +1,6 @@
 # AWS Services list in JSON
 
-This repo contains a JSON file file with all the services available in AWS broken down in their respective catagories. Usefull for building things around what AWS has to offer.
+This repo contains a JSON file file with all the services available in AWS broken down in their respective categories. Useful for building things around what AWS has to offer
 
 # Download the file
 
