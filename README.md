@@ -6,6 +6,10 @@ This repo contains a JSON file file with all the services available in AWS broke
 
 Download link: [AWS Services as JSON](https://0x4447-drive-products.s3.amazonaws.com/0x4447_product_aws_services_list/aws_services.json).
 
+# Complementary video
+
+Interested to know how this file got created? Check out the video: [#4: Rambling about all AWS services while making a JSON file with all those AWS services](https://www.youtube.com/watch?v=Le08C6TGhOo).
+
 # The End
 
 If you enjoyed this project, please consider giving it a 🌟. And check out our [0x4447 GitHub account](https://github.com/0x4447), where you'll find additional resources you might find useful or interesting.
